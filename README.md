@@ -1,8 +1,9 @@
 # get-trade-mark-data
 
-1. Download Chrome Plugin User JavaScript and CSS (https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
-2. Enable development mode in Chrome (settings -> extension -> 打開'開發人員模式')
-3. Apply script to the web page via 'Chrome Plugin User JavaScript and CSS'
+1. Download Chrome Plugin User JavaScript and CSS
+- <https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld>
+3. Enable development mode in Chrome (settings -> extension -> 打開'開發人員模式')
+4. Apply script to the web page via 'Chrome Plugin User JavaScript and CSS'
 - URL Pattern: <https://esearch.ipd.gov.hk/*>
 - Apply sciprt get-trade-mark-data.js
 5. Search result you want
